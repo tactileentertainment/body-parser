@@ -1,3 +1,8 @@
+unreleased
+==========
+
+  * make internal `extended: true` array limit dynamic
+
 1.9.2 / 2014-10-27
 ==================
 
