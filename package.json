@@ -17,7 +17,7 @@
     "iconv-lite": "0.4.15",
     "on-finished": "~2.3.0",
     "qs": "6.4.0",
-    "raw-body": "~2.2.0",
+    "raw-body": "git+https://github.com/tactileentertainment/raw-body.git#entity.too.large",
     "type-is": "~1.6.14"
   },
   "devDependencies": {
